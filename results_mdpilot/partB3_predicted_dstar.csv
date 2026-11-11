@@ -1,0 +1,37 @@
+encoding,prec,threshold_from,thr_log2rho,corner,1%,50%
+unary deg 5 (L=5),f32,"power law + d-offset (γ, β)",,4.530901288601425,7.0,13.0
+unary deg 5 (L=5),f32,measured 50% resolved,-37.98487315164944,4.761632225008361,7.0,13.0
+unary deg 5 (L=5),f32,"power law, deep local slope",-35.54262962766857,4.455482315841156,7.0,13.0
+unary deg 5 (L=5),f32,"power law, γ=q25",-40.314952788647325,5.053721716582276,8.0,14.0
+unary deg 5 (L=5),f32,"power law, γ=pooled",-36.194040144171375,4.537140540543017,7.0,13.0
+unary deg 5 (L=5),f32,"power law, γ=q75",-28.258843142372683,3.542415887792304,5.0,10.0
+unary deg 5 (L=5),f64,"power law + d-offset (γ, β)",,10.295245528072204,18.0,28.0
+unary deg 5 (L=5),f64,measured 50% resolved,-74.09316118385607,9.288023222751441,16.0,26.0
+unary deg 5 (L=5),f64,"power law, deep local slope",-78.1526894721604,9.796909500685045,17.0,27.0
+unary deg 5 (L=5),f64,"power law, γ=q25",-92.05911583328509,11.54016365429176,21.0,31.0
+unary deg 5 (L=5),f64,"power law, γ=pooled",-82.6490198704916,10.360551549284299,18.0,28.0
+unary deg 5 (L=5),f64,"power law, γ=q75",-64.52901303882707,8.089099750496896,14.0,22.0
+ternary deg 4 (L=2),f32,"power law + d-offset (γ, β)",,17.623445808948393,25.0,31.0
+ternary deg 4 (L=2),f32,measured 50% resolved,-37.98487315164944,18.99243657582472,28.0,35.0
+ternary deg 4 (L=2),f32,"power law, deep local slope",-35.54262962766857,17.771314813834284,26.0,33.0
+ternary deg 4 (L=2),f32,"power law, γ=q25",-40.314952788647325,20.157476394323663,30.0,37.0
+ternary deg 4 (L=2),f32,"power law, γ=pooled",-36.194040144171375,18.097020072085687,27.0,33.0
+ternary deg 4 (L=2),f32,"power law, γ=q75",-28.258843142372683,14.129421571186342,21.0,26.0
+ternary deg 4 (L=2),f64,"power law + d-offset (γ, β)",,40.04450551819548,inf,inf
+ternary deg 4 (L=2),f64,measured 50% resolved,-74.09316118385607,37.046580591928034,inf,inf
+ternary deg 4 (L=2),f64,"power law, deep local slope",-78.1526894721604,39.0763447360802,inf,inf
+ternary deg 4 (L=2),f64,"power law, γ=q25",-92.05911583328509,46.029557916642545,inf,inf
+ternary deg 4 (L=2),f64,"power law, γ=pooled",-82.6490198704916,41.3245099352458,inf,inf
+ternary deg 4 (L=2),f64,"power law, γ=q75",-64.52901303882707,32.26450651941354,inf,inf
+ternary deg 13 (L=3),f32,"power law + d-offset (γ, β)",,11.880180285354193,17.0,20.0
+ternary deg 13 (L=3),f32,measured 50% resolved,-37.98487315164944,12.661624383883145,18.0,22.0
+ternary deg 13 (L=3),f32,"power law, deep local slope",-35.54262962766857,11.847543209222856,17.0,21.0
+ternary deg 13 (L=3),f32,"power law, γ=q25",-40.314952788647325,13.438317596215775,19.0,23.0
+ternary deg 13 (L=3),f32,"power law, γ=pooled",-36.194040144171375,12.064680048057125,17.0,21.0
+ternary deg 13 (L=3),f32,"power law, γ=q75",-28.258843142372683,9.419614380790895,13.0,17.0
+ternary deg 13 (L=3),f64,"power law + d-offset (γ, β)",,26.994490756879443,39.0,inf
+ternary deg 13 (L=3),f64,measured 50% resolved,-74.09316118385607,24.69772039461869,36.0,inf
+ternary deg 13 (L=3),f64,"power law, deep local slope",-78.1526894721604,26.050896490720135,39.0,inf
+ternary deg 13 (L=3),f64,"power law, γ=q25",-92.05911583328509,30.686371944428362,inf,inf
+ternary deg 13 (L=3),f64,"power law, γ=pooled",-82.6490198704916,27.549673290163867,inf,inf
+ternary deg 13 (L=3),f64,"power law, γ=q75",-64.52901303882707,21.50967101294236,32.0,37.0
